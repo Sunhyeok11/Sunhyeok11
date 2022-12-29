@@ -8,4 +8,4 @@
 
 네 **힘**들거라고 예상합니다. <p>
 
-  ![Sunhyeok](https://github-readme-stats.vercel.app/api?username=sunhyeok&theme=cobalt&show_icons=true)
+  ![Sunhyeok](https://github-readme-stats.vercel.app/api?username=sunhyeok&theme=radical&show_icons=true)
