@@ -4,6 +4,7 @@
   ![Sunhyeok](https://github-readme-stats.vercel.app/api?username=sunhyeok&theme=radical&show_icons=true)
 
 
+https://img.shields.io/static/v1?label=<LABEL>&message=hi&color=#845ef7
 
-[![Solved.ac
-sunhyeok11](https://github.com/Sunhyeok11/api/v2/generate_badge?boj={sunhyeok11})](https://solved.ac/{sunhyeok11})
+
+
