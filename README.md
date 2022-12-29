@@ -7,3 +7,5 @@
 앞으로도 꾸준히 **연습**하겠습니다. <p>
 
 네 **힘**들거라고 예상합니다. <p>
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
