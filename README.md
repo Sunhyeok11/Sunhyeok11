@@ -6,4 +6,4 @@
 
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={sunhyeok11})](https://solved.ac/{sunhyeok11})
+sunhyeok11](https://github.com/Sunhyeok11/api/v2/generate_badge?boj={sunhyeok11})](https://solved.ac/{sunhyeok11})
