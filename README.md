@@ -17,7 +17,7 @@
 
 
  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=lightgray)
- ![VisualStudioCode](https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=lightgary)
+ ![VisualStudioCode](https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=lightgary)<p>
  ![Spyder](https://img.shields.io/badge/Spyder-%23575757.svg?style=flat-square&logo=sublime-text&logoColor=important)
  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)
 
