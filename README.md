@@ -6,3 +6,21 @@
 
   ![Sunhyeok](https://github-readme-stats.vercel.app/api?username=sunhyeok&theme=radical&show_icons=true)
 
+<div align=center> 
+  
+
+<div align=center><h3>📚 STUDY</h3></div>                                                    
+
+<div align=center>
+  
+![python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=black)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=White)
+  
+  <div align=center><h3>🛠 TOOL</h3></div>                                                    
+
+ ![VisualStudioCode](https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=White)
+ ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=White)
+  
+  
+
+  [![GitHub Streak](https://streak-stats.demolab.com?user=sodamjeong&theme=nightowl&hide_border=true)](https://git.io/streak-stats)
