@@ -18,7 +18,7 @@
   
   <div align=center><h3>🛠 TOOL</h3></div>                                                    
 
- ![VisualStudioCode](https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=White)
+
  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=White)
   
   
