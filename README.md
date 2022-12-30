@@ -22,5 +22,6 @@
  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=lightgray)
  ![VisualStudioCode](https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=lightgary)
  ![Spyder](https://img.shields.io/badge/Spyder-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
+ ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
   [![GitHub Streak](https://streak-stats.demolab.com?user=sodamjeong&theme=nightowl&hide_border=true)](https://git.io/streak-stats)
