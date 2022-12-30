@@ -4,11 +4,6 @@
 <div align=center> 
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Adiós&fontAlignY=40&fontSize=100&desc=&descAlignY=65&animation=twinkling)
-
-
-  ![Sunhyeok](https://github-readme-stats.vercel.app/api?username=sunhyeok&theme=radical&show_icons=true)
-
-
   
 
 <div align=center><h3>📚 STUDY</h3></div>                                                    
@@ -27,3 +22,4 @@
  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)
 
   [![GitHub Streak](https://streak-stats.demolab.com?user=sodamjeong&theme=nightowl&hide_border=true)](https://git.io/streak-stats)
+  ![Sunhyeok](https://github-readme-stats.vercel.app/api?username=sunhyeok&theme=radical&show_icons=true)
