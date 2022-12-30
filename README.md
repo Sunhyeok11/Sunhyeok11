@@ -3,7 +3,7 @@
 
 <div align=center> 
   
-<img src="https://capsule-render.vercel.app/api?type=shark&bg_color=gradient&height=300&height=200&section=header&text=wow&fontSize=90" />
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=uoayop&fontAlignY=40&fontSize=100&desc=ꉂꉂ(ᵔᗜᵔ*)&descAlignY=65&animation=twinkling)
 
 
   ![Sunhyeok](https://github-readme-stats.vercel.app/api?username=sunhyeok&theme=radical&show_icons=true)
