@@ -21,5 +21,6 @@
  ![Sublime Text](https://img.shields.io/badge/SublimeText-%23575757.svg?style=flat-square&logo=sublime-text&logoColor=important)<p>
  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)
 
-  ![Sunhyeok's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunhyeok&show_icons=true&theme=nightowl&hide_border=true) 
+
+  [![GitHub Streak](https://streak-stats.demolab.com?user=sodamjeong&theme=nightowl&hide_border=true)](https://git.io/streak-stats)
   ![Sunhyeok](https://github-readme-stats.vercel.app/api?username=sunhyeok&theme=radical&show_icons=true)
