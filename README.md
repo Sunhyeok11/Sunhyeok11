@@ -22,5 +22,5 @@
  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sunhyeok&theme=nightowl&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sunhyeok11&theme=nightowl&hide_border=true)](https://git.io/streak-stats)
 ![Sunhyeok](https://github-readme-stats.vercel.app/api?username=sunhyeok&theme=radical&show_icons=true)
