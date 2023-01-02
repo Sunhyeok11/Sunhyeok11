@@ -24,3 +24,4 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sunhyeok11&theme=nightowl&hide_border=true)](https://git.io/streak-stats)
 ![Sunhyeok](https://github-readme-stats.vercel.app/api?username=sunhyeok11&theme=radical&show_icons=true)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cghhld)](https://solved.ac/cghhld/)
