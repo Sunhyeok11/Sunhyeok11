@@ -10,9 +10,9 @@
 
 <div align=center>
   
-<!-- ![python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=black)
+![python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=black)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=White)
-   -->
+  
   <div align=center><h3>🛠 TOOL</h3></div>                                                    
 
 
@@ -21,6 +21,7 @@
  ![Sublime Text](https://img.shields.io/badge/SublimeText-%23575757.svg?style=flat-square&logo=sublime-text&logoColor=important)<p>
  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)
 
-
+<!-- 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sunhyeok11&theme=nightowl&hide_border=true)](https://git.io/streak-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cghhld)](https://solved.ac/cghhld/)
+ -->
