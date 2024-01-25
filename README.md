@@ -3,7 +3,7 @@
 
 <div align=center> 
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Adiós&fontAlignY=40&fontSize=100&desc=&descAlignY=65&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=HELLO&fontAlignY=40&fontSize=100&desc=&descAlignY=65&animation=twinkling)
   
 
 <div align=center><h3>📚 LEANING</h3></div>                                                    
