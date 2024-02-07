@@ -26,3 +26,5 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=sunhyeok11&theme=nightowl&hide_border=true)](https://git.io/streak-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cghhld)](https://solved.ac/cghhld/)
  -->
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=cghhld)](https://solved.ac/cghhld)
