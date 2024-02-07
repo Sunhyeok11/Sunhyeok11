@@ -28,3 +28,4 @@
  -->
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=cghhld)](https://solved.ac/cghhld)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sunhyeok11&layout= compact&theme=merko)
